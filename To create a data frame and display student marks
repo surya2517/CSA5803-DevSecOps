@@ -1,0 +1,6 @@
+name <- c("Ram","Sam","John")
+marks <- c(85,92,78)
+
+student <- data.frame(Name=name, Marks=marks)
+
+print(student)
