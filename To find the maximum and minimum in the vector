@@ -1,0 +1,4 @@
+v <- c(45,12,89,34,67,10,99)
+
+cat("Maximum =", max(v), "\n")
+cat("Minimum =", min(v))
